@@ -1,0 +1,4 @@
+alan_test:
+    resource: "@AlanTestBundle/Resources/config/routing.xml"
+    prefix:   /
+
