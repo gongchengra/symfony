@@ -7,4 +7,7 @@
     <route id="random" path="/random/{limit}">
         <default key="_controller">AlanTestBundle:Random:index</default>
     </route>
+    <route id="hello" path="/hello/{name}">
+        <default key="_controller">AlanTestBundle:Default:index</default>
+    </route>
 </routes>
