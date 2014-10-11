@@ -1,3 +1,7 @@
+alan_blog:
+    resource: "@AlanBlogBundle/Resources/config/routing.xml"
+    prefix:   /
+
 alan_test:
     resource: "@AlanTestBundle/Resources/config/routing.xml"
     prefix:   /
