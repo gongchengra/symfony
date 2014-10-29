@@ -1,3 +1,7 @@
+alan_task:
+    resource: "@AlanTaskBundle/Resources/config/routing.xml"
+    prefix:   /
+
 alan_blog:
     resource: "@AlanBlogBundle/Resources/config/routing.xml"
     prefix:   /
