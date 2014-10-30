@@ -13,4 +13,10 @@
         </service>
     </services>
     -->
+    <services>
+        <service id="alan_task.form.type.task" class="Alan\TaskBundle\Form\Type\TaskType">
+            <tag name="form.type" alias="task" />
+        </service>
+    </services>
+ 
 </container>
